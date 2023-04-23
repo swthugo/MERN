@@ -1,0 +1,10 @@
+[
+  {
+    "item": "Home",
+    "path": "/"
+  },
+  {
+    "item": "About",
+    "path": "/about"
+  }
+]
